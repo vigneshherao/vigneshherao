@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VIGNESH H E</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="coding" width=400px src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
+<img align="right" alt="coding" width=300px height =200px src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
 - 🔭 I’m currently working at **ValGeneis**
 
