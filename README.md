@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="coding" width=350px height=350px border-radius="30px" src="https://media.tenor.com/Aw2-4sShkCUAAAAd/coding.gif">
 
-- 🔭 I’m currently working at **ValGeneis**
+- 🔭 Worked as Junior Software Engineer @ ValGeNesis India**
 
 - 🌱 I’m currently learning **DSA with Full stack web development**
 
